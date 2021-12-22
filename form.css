@@ -1,0 +1,64 @@
+body{
+  background-color: black;
+}
+
+img{
+  height: auto; 
+    width: auto; 
+    max-width: 100px; 
+    max-height: 300px;
+  position: absolute;
+    left: 46.5%;
+    top: 0px;
+   
+}
+
+.menu ol{
+  padding:150px ;
+  margin: 0px;
+  background-color: black;
+  display: flex;
+    justify-content: center;
+
+}
+.menu ol li{
+  display: inline;
+  text-align: center;
+}
+
+.menu ol li a{
+  padding: 10px 50px;
+  color: white;
+  text-decoration: none;
+  sans-serif;font-family: Arial, Helvetica ;
+  text-align: center;
+
+}
+
+
+.menu ol li a:hover{
+    background-color: #52d47e;
+  color: white;
+  box-shadow: 0 0 1em #52d47e;
+
+}
+
+form {
+  color: white;
+  padding: 0px 350px;
+  text-align: center;
+
+}
+
+form fieldset{
+  color: white;
+  text-align: center;
+  
+}
+
+form fieldset label{
+  color: white;
+
+
+  
+}

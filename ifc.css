@@ -1,0 +1,147 @@
+body{
+  background-color: black;
+}
+
+img{
+  height: auto; 
+  width: auto; 
+  max-width: 100px; 
+  max-height: 300px;
+  position: absolute;
+  left: 46.5%;
+  top: 0px;
+   
+}
+
+.menu ol{
+  padding:150px ;
+  margin: 0px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+
+}
+.menu ol li{
+  display: inline;
+  text-align: center;
+}
+
+.menu ol li a{
+  padding: 10px 50px;
+  color: white;
+  text-decoration: none;
+  sans-serif;font-family: Arial, Helvetica ;
+  text-align: center;
+
+}
+
+
+.menu ol li a:hover{
+    background-color: #52d47e;
+  color: white;
+  box-shadow: 0 0 1em #52d47e;
+
+}
+
+.vermelho {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background:red;
+  position: absolute;
+  left: 47%;
+  top: 50%;
+}
+
+
+.onequadrado {
+  width: 30px;
+  height: 30px;
+  border-radius: 10%;
+  background:#349a46;
+  position: absolute;
+  left: 47%;
+  top: 54.5%;
+}
+
+.twoquadrado {
+  width: 30px;
+  height: 30px;
+  border-radius: 10%;
+  background:#349a46;
+  position: absolute;
+  left: 47%;
+  top: 59%;
+}
+
+.threequadrado {
+  width: 30px;
+  height: 30px;
+  border-radius: 10%;
+  background:#349a46;
+  position: absolute;
+  left: 47%;
+  top: 63.6%;
+}
+
+.fourquadrado {
+  width: 30px;
+  height: 30px;
+  border-radius: 10%;
+  background:#349a46;
+  position: absolute;
+  left: 49.6%;
+  top: 50%;
+}
+
+.fivequadrado {
+  width: 30px;
+  height: 30px;
+  border-radius: 10%;
+  background:#349a46;
+  position: absolute;
+  left: 52.2%;
+  top: 50%;
+}
+
+.sixquadrado {
+  width: 30px;
+  height: 30px;
+  border-radius: 10%;
+  background:#349a46;
+  position: absolute;
+  left: 49.6%;
+  top: 54.5%;
+}
+
+
+.sevenquadrado {
+  width: 30px;
+  height: 30px;
+  border-radius: 10%;
+  background:#349a46;
+  position: absolute;
+  left: 49.6%;
+  top: 59%;
+}
+
+
+.eightquadrado {
+  width: 30px;
+  height: 30px;
+  border-radius: 10%;
+  background:#349a46;
+  position: absolute;
+  left: 49.6%;
+  top: 63.6%;
+}
+
+.ninequadrado {
+  width: 30px;
+  height: 30px;
+  border-radius: 10%;
+  background:#349a46;
+  position: absolute;
+  left: 52.2%;
+  top: 59%;
+}
